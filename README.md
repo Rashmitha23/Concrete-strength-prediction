@@ -61,13 +61,6 @@ This data-driven approach not only aids in understanding concrete behavior but a
 
 ---
 
-## 📊 **Screenshots**  
-Here are a few screenshots of the **Power BI dashboard**:
-
-![Screenshot 1](path_to_screenshot_1)  
-![Screenshot 2](path_to_screenshot_2)
-
----
 
 ## 📈 **Key Insights**  
 
